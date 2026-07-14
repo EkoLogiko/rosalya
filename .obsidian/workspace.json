@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "69b36289bc1a83ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd458dc77eabcce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c9a3b67cfc378be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tribù degli Antichi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e29a884dd2b79a42",
+    "type": "split",
+    "children": [
+      {
+        "id": "742098bf78a4c099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4afe9c09875e26c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "8aa59dfde88720c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "a2107d9bf0ee4399",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbe1fd50c57383d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b3f941a82418a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e6254918b293fc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Tribù degli Antichi"
+            }
+          },
+          {
+            "id": "819ac490d72c9425",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "97bd8807c033038b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "67c7e912f6d9e204",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "fa93568cf0ca9e38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Tribù degli Antichi"
+            }
+          },
+          {
+            "id": "8df1fa948941acee",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "7a08ee3fc5c354e4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "5a277ad863938086",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c241c8788999b832",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4c9a3b67cfc378be",
+  "lastOpenFiles": [
+    "Morderkind.md",
+    "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
+    "03_Mechanics/Statblocks/Boss/Amica di Fla.md",
+    "00_Meta/Templates/Fazione.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC/Fla, Emotista Kemono.md",
+    "02_Lore/Fazioni & Religioni/Foresta Immacolata",
+    "00_Meta/Templates/NPC.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC",
+    "00_Meta/Templates/Statblock.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni/Senza nome.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni",
+    "03_Mechanics/Statblocks/NPC",
+    "03_Mechanics/Statblocks/Boss",
+    "03_Mechanics/Bestiario.md",
+    "Statblock_Noble.md",
+    "Gilda dei Ladri.md",
+    "05_Campaings/One-Shots",
+    "05_Campaings",
+    "04_Characters/NPC",
+    "04_Characters/PC",
+    "04_Characters",
+    "Benvenuto.md"
+  ]
+}
