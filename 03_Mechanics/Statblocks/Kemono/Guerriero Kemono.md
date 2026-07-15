@@ -35,8 +35,9 @@ traits:
 actions:
   - name: Attacco
     desc: "Attacco con arma da mischia: +2 al colpire, portata 1.5 m, un bersaglio. Colpito: 8 (1d12 + 2) danni taglienti, perforanti o contundenti."
-  - name: Shout Orders
-    desc: "Bonus - Ricarica 4 - Fino a 6 alleati che possono udire il guerriero possono effettuare il loro movimento o un'azione a loro scelta."
+bonus_actions:
+  - name: Shout Orders (Ricarica 4)
+    desc: "Fino a 6 alleati che possono udire il guerriero possono effettuare il loro movimento o un'azione a loro scelta."
 
 # REAZIONI (Se il mostro non ne ha, cancella questa sezione)
 reactions:
