@@ -58,10 +58,10 @@ cr: 2 # Grado di Sfida (puoi usare anche frazioni come 1/2, 1/4, 1/8)
 
 # TRATTI E ABILITÀ PASSIVE (es. Tattiche del Branco, Incantesimi Silenti, ecc.)
 traits:
-  - name: Nome del Primo Tratto
-    desc: "Descrizione del funzionamento del tratto passivo. Se inserisci tiri di dado come 1d6 o +5 per colpire tra le virgolette, diventeranno cliccabili se usi il plugin Dice Roller."
-  - name: Nome del Secondo Tratto
-    desc: "Descrizione del secondo tratto."
+  - name: Magic Resistance
+    desc: "Ha vantaggio ai tiri salvezza contro le magie e altri effetti magici."
+  - name: Pack Tactics
+    desc: "Vantaggio a colpire se un alleato non incapacitato è entro 1,5 m dal bersaglio."
 
 # AZIONI IN COMBATTIMENTO (Attacchi, Soffi, Magie ad azione singola)
 actions:
@@ -72,10 +72,5 @@ actions:
 
 # REAZIONI (Se il mostro non ne ha, cancella questa sezione)
 reactions:
-  - name: Schivata Prodigiosa
-    desc: "Quando un attaccante che il mostro può vedere lo colpisce con un attacco, il mostro può usare la sua reazione per dimezzare i danni dell'attacco."
-
-# AZIONI LEGGENDARIE (Rimuovi l'intera sezione per mostri normali)
-legendary_actions:
-  - name: Scatto Leggendario
-    desc: "Il mostro si muove fino alla sua velocità senza provocare attacchi di opportunità."
+  - name: Retailation
+    desc: "Quando viene colpito da un attacco, può attaccare la creatura che l'ha colpito."
