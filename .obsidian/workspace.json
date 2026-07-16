@@ -11,14 +11,14 @@
             "id": "4c9a3b67cfc378be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "00_Meta/Resources/Creare un mostro.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Creare un mostro"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -253,14 +253,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5dea414b413671b",
+  "active": "4c9a3b67cfc378be",
   "lastOpenFiles": [
+    "00_Meta/Resources/Creare un mostro.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC/Fla, Emotista Kemono.md",
     "00_Meta/Templates/Statblock.md",
     "00_Meta/Templates/PC.md",
     "00_Meta/Templates/NPC.md",
-    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC/Fla, Emotista Kemono.md",
     "03_Mechanics/Statblocks/Kemono/Arcere Kemono.md",
-    "00_Meta/Resources/Creare un mostro.md",
     "03_Mechanics/Statblocks/Kemono/Furfante Kemono.md",
     "03_Mechanics/Statblocks/Kemono/Guerriero Kemono.md",
     "00_Meta/Resources",
