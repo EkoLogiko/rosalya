@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4a5aebe4bf95e5",
+        "id": "bd458dc77eabcce1",
         "type": "tabs",
         "children": [
           {
-            "id": "6a0bcde5c7c1bdc2",
+            "id": "4c9a3b67cfc378be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Campaings/One-Shots/Emozioni e Tensioni/PC/Rodolfo Leone.md",
+                "file": "03_Mechanics/Statblocks/Kageoni/Kageoni Consacrato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rodolfo Leone"
+              "title": "Kageoni Consacrato"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b80754dec7bc386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe06e6ca58792c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Mechanics/Statblocks/Kemono/Guerriero Kemono.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guerriero Kemono"
             }
           }
         ]
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
+                "file": "03_Mechanics/Statblocks/Kemono/Guerriero Kemono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Tribù degli Antichi"
+              "title": "Riferimenti a Guerriero Kemono"
             }
           },
           {
@@ -155,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
+                "file": "03_Mechanics/Statblocks/Kemono/Guerriero Kemono.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Tribù degli Antichi"
+              "title": "Struttura di Guerriero Kemono"
             }
           },
           {
@@ -170,8 +190,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -182,16 +202,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "b90a1163f93ac81a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
             }
           }
         ],
@@ -215,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,43 +243,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6a0bcde5c7c1bdc2",
+  "active": "7a08ee3fc5c354e4",
   "lastOpenFiles": [
     "05_Campaings/One-Shots/Emozioni e Tensioni/PC/Rodolfo Leone.md",
     "05_Campaings/One-Shots/Emozioni e Tensioni/PC",
     "04_Characters/Non-Player Characters/Kemono/Ktarr, Capotribù degli Antichi.md",
     "04_Characters/Non-Player Characters/Kemono/Klara, Sciamana degli Antichi.md",
-    "00_Meta/Templates/Statblock.md",
-    "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
-    "Yuuhiyoake.md",
-    "Nome Leader.md",
-    "00_Meta/Resources/Creare un mostro.md",
-    "00_Meta/Resources/Base Statblock CR.md",
-    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC/Fla, Emotista Kemono.md",
-    "00_Meta/Spells/Disguise Self.md",
-    "00_Meta/Spells/Calm Emotions.md",
-    "00_Meta/Spells/Senza nome",
-    "00_Meta/Spells",
-    "00_Meta/Resources/Creare statblocks.md",
-    "00_Meta/Templates/NPC.md",
+    "04_Characters/Non-Player Characters/Kemono",
+    "04_Characters/Non-Player Characters",
     "01_Atlas/Concetti/Magia/Sciamanismo.md",
     "01_Atlas/Concetti/Magia",
     "01_Atlas/Concetti",
-    "01_Atlas",
-    "02_Lore/Senza nome",
-    "04_Characters/Non-Player Characters/Kemono",
-    "04_Characters/Non-Player Characters",
-    "04_Characters",
-    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC/Senza nome.md",
-    "conflict-files-obsidian-git.md",
+    "00_Meta/Spells/Disguise Self.md",
+    "00_Meta/Spells/Calm Emotions.md",
+    "00_Meta/Spells",
     "03_Mechanics/Statblocks/Kageoni/Kageoni.md",
     "03_Mechanics/Statblocks/Kageoni/Kageoni Consacrato.md",
-    "00_Meta/Templates/PC.md",
-    "03_Mechanics/Statblocks/Kemono/Arcere Kemono.md",
-    "03_Mechanics/Statblocks/Kemono/Furfante Kemono.md",
     "03_Mechanics/Statblocks/Kemono/Guerriero Kemono.md",
+    "00_Meta/Resources/Creare un mostro.md",
+    "03_Mechanics/Statblocks/Kemono/Furfante Kemono.md",
+    "03_Mechanics/Statblocks/Kemono/Arcere Kemono.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC/Fla, Emotista Kemono.md",
+    "03_Mechanics/Statblocks/Kageoni",
+    "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
+    "03_Mechanics/Statblocks/Kemono",
+    "00_Meta/Templates/PC.md",
+    "00_Meta/Resources",
     "Morderkind.md",
     "03_Mechanics/Statblocks/Boss/Amica di Fla.md",
-    "00_Meta/Templates/Fazione.md"
+    "00_Meta/Templates/Fazione.md",
+    "02_Lore/Fazioni & Religioni/Foresta Immacolata",
+    "00_Meta/Templates/NPC.md",
+    "00_Meta/Templates/Statblock.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni/Senza nome.md",
+    "03_Mechanics/Bestiario.md",
+    "Statblock_Noble.md",
+    "Gilda dei Ladri.md",
+    "Benvenuto.md"
   ]
 }
