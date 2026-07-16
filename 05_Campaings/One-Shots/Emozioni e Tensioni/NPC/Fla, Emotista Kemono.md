@@ -11,6 +11,7 @@ specie: Kemono
 # 👤 Fla, Emotista Kemono
 Il Kemono scelto dall'Ars Passionum.
 Scacciato dalla [[Tribù degli Antichi]] poiché scelto dall'[[Ars Passionum]] e ritenuto un problema per la sopravvivenza dell'insediamento.
+È dotato di capacità sciamaniche legate alle emozioni, che lo hanno portato a essere il candidato dell'[[Ars Passionum]].
 
 ### 📌 Aspetto e Personalità
 - **Tratto Distintivo:** Volpide dalla coda spezzata.
@@ -20,6 +21,8 @@ Scacciato dalla [[Tribù degli Antichi]] poiché scelto dall'[[Ars Passionum]] e
 ### 🔗 Relazioni
 - **Alleato di:** [[Amica di Fla]]
 - **In conflitto con:** [[Tribù degli Antichi]]
+- **Familiari**:
+	- [[Klara, Sciamana degli Antichi]] (sorella)
 - **Note personali:** 
 
 ### ⚔️ Statistiche e Combattimento
@@ -30,31 +33,37 @@ size: Medio # Minuscolo, Piccolo, Medio, Grande, Enorme, Mastodontico
 type: Umanoide # Non morto, Bestia, Aberrazione, ecc.
 subtype: Kemono
 alignment: Caotico Buono
-ac: 13 (naturale)
-hp: 45
-hit_dice: 7d8 + 14
+ac: 12
+hp: 25
+hit_dice: 6d8
 speed: 9 m
 
 # Forza, Destrezza, Costituzione, Intelligenza, Saggezza, Carisma
-stats: [10, 16, 14, 8, 12, 10]
+stats: [10, 15, 10, 14, 12, 16]
 
 # Tiri Salvezza (Rimuovi le righe che non servono)
 saves:
-  - destrezza: 5
+  - str: 0
+  - dex: 4
+  - con: 0
+  - int: 1
+  - wis: 2
+  - cha: 3
 
 # Abilità (Rimuovi le righe che non servono)
 skillsaves:
   - acrobazia: 5
   - intuizione: 3
   - addestrare animali: 3
+  - percezione: 3
 
 # Resistenze, Immunità e Vulnerabilità (Rimuovi o lascia vuoto se non presenti)
 condition_immunities: affascinato
 
 # Sensi e Linguaggi
-senses: scurovisione 9 m, percezione passiva 11
+senses: scurovisione 9 m, percezione passiva 13
 languages: Tribale Kemono, Silvano
-cr: 2 # Grado di Sfida (puoi usare anche frazioni come 1/2, 1/4, 1/8)
+cr: 1 # Grado di Sfida (puoi usare anche frazioni come 1/2, 1/4, 1/8)
 
 # TRATTI E ABILITÀ PASSIVE (es. Tattiche del Branco, Incantesimi Silenti, ecc.)
 traits:
@@ -65,12 +74,11 @@ traits:
 
 # AZIONI IN COMBATTIMENTO (Attacchi, Soffi, Magie ad azione singola)
 actions:
-  - name: Multiattack
-    desc: "Fla effettua due attacchi."
   - name: Attacco
-    desc: "Attacco a mani nude: +5 al colpire, gittata 1,5 m, un bersaglio. Colpito: 9 (1d12 + 3) danni taglienti o perforanti."
-
-# REAZIONI (Se il mostro non ne ha, cancella questa sezione)
-reactions:
-  - name: Retailation
-    desc: "Quando viene colpito da un attacco, può attaccare la creatura che l'ha colpito."
+    desc: "Attacco a mani nude: +5 al colpire, gittata 1,5 m, un bersaglio. Colpito: 4 (1d6) danni taglienti o perforanti."
+  - name: Mind Sliver (Ricarica 4-5-6)
+    desc: "Intensimo a distanza: gittata 30 m, un bersaglio. TS INT 12: 7 (2d6) danni psichici e 1d4 in meno al prossimo TS."
+  - name: Mind Sliver (Ricarica 6)
+    desc: "Intensimo a distanza: gittata 30 m, un bersaglio. TS INT 12: 7 (2d6) danni psichici e 1d4 in meno al prossimo TS."
+  - name: [[Calm Emotions]] (Ricarica 6)
+    desc: "Come il relativo incantesimo."

@@ -3,7 +3,7 @@ tags:
   - fazione
   - fazione/attiva
 sede: "[[Foresta Immacolata]]"
-leader:
+leader: "[[Ktarr, Capotribù degli Antichi]]"
 allineamento: Legale Neutrale
 ---
 
@@ -20,9 +20,10 @@ Una delle pochissime tribù sedentarie che abitano la foresta, le origini dell'i
 - **Segreto:** 
 
 ### 👤 Membri di Rilievo
-- **Leader:** [[Nome Leader]]
+- **Leader:** [[Ktarr, Capotribù degli Antichi]]
 - **Membri Chiave:**
   - [[Fla, Emotista Kemono]] - Volpide che è stato scelto dall'[[Ars Passionum]] e che la tribù ha ripudiato.
+  - [[Klara, Sciamana degli Antichi]] - Sciamana volpide che si occupa di recuperare le risorse necessarie alla tribù dagli insediamenti umani vicini (mentre è trasformata in uno di loro)
 
 ### 🤝 Relazioni Politiche
 - **Alleati:** [[]]
