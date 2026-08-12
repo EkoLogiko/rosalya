@@ -1,5 +1,5 @@
 ```statblock
-name: Nome del Mostro o NPC
+name: {{title}}
 size: Medio # Minuscolo, Piccolo, Medio, Grande, Enorme, Mastodontico
 type: Umanoide # Non morto, Bestia, Aberrazione, ecc.
 subtype: (qualsiasi sottotipo, es. goblinoidi)

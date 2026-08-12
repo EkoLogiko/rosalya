@@ -1,5 +1,168 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Amica di Fla (Manticora)",
+      {
+        "name": "Amica di Fla (Manticora)",
+        "size": "Grande",
+        "type": "Mostruosità",
+        "alignment": "Legale Malvagio",
+        "ac": "14 (Armatura Naturale)",
+        "hp": 68,
+        "hit_dice": "8d10 + 24",
+        "speed": "9 m, volare 15 m",
+        "stats": [
+          17,
+          16,
+          17,
+          7,
+          12,
+          8
+        ],
+        "senses": "scurovisione 18 m, percezione passiva 11",
+        "languages": "Comune",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Ricrescita degli Aculei della Coda",
+            "desc": "La manticora possiede ventiquattro aculei sulla coda. Gli aculei utilizzati ricrescono quando la manticora completa un riposo lungo."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattacco",
+            "desc": "La manticora effettua tre attacchi di Morso o Aculeo della Coda in qualsiasi combinazione."
+          },
+          {
+            "name": "Morso",
+            "desc": "Attacco con arma da mischia: +5 al colpire, portata 1.5 m, un bersaglio. Colpito: 7 (1d8 + 3) danni perforanti."
+          },
+          {
+            "name": "Aculeo della Coda",
+            "desc": "Attacco con arma a distanza: +5 al colpire, gittata 30/60 m, un bersaglio. Colpito: 7 (1d8 + 3) danni perforanti."
+          }
+        ],
+        "lair_actions": [
+          {
+            "name": "Crollo di Detriti",
+            "desc": "La manticora sbatte violentemente le ali contro le pareti rocciose della sua tana. Una pioggia di pietre cade in un punto a scelta entro 18 metri. Ogni creatura in quell'area da 3 metri di raggio deve superare un TS di Destrezza CD 13 o subire 7 (2d6) danni d'impatto ed essere buttata a terra prona."
+          },
+          {
+            "name": "Ars Passionum",
+            "desc": "L'Ars Passionum lancia un incantesimo emotivo di una certa natura su tutte le creature che ne subiscono gli effetti se non superano un TS di Saggezza CD 12. Essendo da un po' di tempo sotto l'effetto dell'Ars Passionum, l'Amica di Fla ha vantaggio nel resistere a questa prova.<br/>*Rabbia*: Il personaggio usa la Reazione per attaccare un alleato o sé stesso, se non ha alleati entro gittata.<br/>*Paura*: Il personaggio ha la condizione Spaventato rispetto all'Ars Passionum.<br/>*Tristezza*: Il personaggio cade Prono e usa la sua azione per piangere in questo turno."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Capolavoro di Carla",
+      {
+        "name": "Capolavoro di Carla",
+        "size": "Enorme",
+        "type": "Costrutto",
+        "subtype": "Golem",
+        "alignment": "Vero Neutrale",
+        "modifier": 3,
+        "ac": 15,
+        "hp": 74,
+        "hit_dice": "9d8 + 36",
+        "speed": "6 m",
+        "stats": [
+          18,
+          8,
+          18,
+          3,
+          8,
+          1
+        ],
+        "damage_vulnerabilities": "fulmine",
+        "damage_resistances": "tagliente, perforante, freddo",
+        "damage_immunities": "veleno, psichico",
+        "condition_immunities": "accecato, affascinato, assordato, esausto, spaventato, paralizzato, pietrificato, avvelenato",
+        "senses": "vista cieca 18 m, percezione passiva 9",
+        "languages": "Comune (non può parlare)",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Placche Metalliche",
+            "desc": "+2 alla CA. Questo bonus si riduce a +1 se il Capolavoro di Carla ha meno del 75% dei suoi HP massimi, a 0 se ha meno del 50% e a -1 se ha meno del 25%."
+          },
+          {
+            "name": "Sentinella",
+            "desc": "Il Capolavoro di Carla effettua attacchi d'opportunità senza usare Reazioni."
+          },
+          {
+            "name": "Protettore",
+            "desc": "Gli attacchi effettuati verso Carla hanno svantaggio finché il Capolvoro è attivo."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattacco",
+            "desc": "Il Capolavoro effettua una quasiasi combinazione di 2 attacchi Schianto o Mitragliatori Arcani. Se ha usato *Sovraccarico*, ne effettua 3."
+          },
+          {
+            "name": "Schianto",
+            "desc": "Attacco con arma da maschia: +5 al colpire, portata 3 m, un bersaglio. Colpito: 12 (2d6 + 4) danni contundenti."
+          },
+          {
+            "name": "Mitragliatori Arcani",
+            "desc": "Attacco con arma a distanza: +5 al colpire, gittata 24/96 m, un bersaglio. Colpito: 10 (1d10 + 4) danni da fuoco/freddo/acido/fulmine."
+          },
+          {
+            "name": "Scarica Totale",
+            "desc": "Utilizzabile solamente se gli HP sono inferiori al 50% degli HP massimi. Tutte le creature che non sono a bordo del Capolavoro devono effettuare un TS Destrezza con CD 12. Se falliscono, subiscono 24 (4d6 + 8) danni di un tipo casuale tra fuoco/freddo/acido/fulmine, altrimenti ne subiscono la metà. Il Capolavoro non può più usare questo attacco o attacchi di *Mitragliatori Arcani* dopo aver utilizzato questo attacco."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Sovraccarico (Ricarica 5-6)",
+            "desc": "Il Capolavoro di Carla effettua un'azione di *Scatto* o di *Disingaggiare*."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Drone",
+      {
+        "name": "Drone",
+        "size": "Medio",
+        "type": "Costrutto",
+        "subtype": "Golem",
+        "alignment": "Vero Neutrale",
+        "ac": 11,
+        "hp": 10,
+        "hit_dice": "1d8 + 4",
+        "speed": "12 m",
+        "stats": [
+          12,
+          10,
+          18,
+          3,
+          8,
+          1
+        ],
+        "damage_vulnerabilities": "fulmine",
+        "damage_immunities": "veleno, psichico",
+        "condition_immunities": "accecato, affascinato, assordato, esausto, spaventato, paralizzato, pietrificato, avvelenato",
+        "senses": "vista cieca 18 m, percezione passiva 9",
+        "languages": "Comune (non può parlare)",
+        "cr": "1/8",
+        "actions": [
+          {
+            "name": "Schianto",
+            "desc": "Attacco con arma da mischia: +3 al colpire, portata 1.5 m, un bersaglio. Colpito: 4 (1d6 + 1) danni contundenti."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",
