@@ -4,41 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bd458dc77eabcce1",
+        "id": "8019cd60f344c7b0",
         "type": "tabs",
         "children": [
           {
-            "id": "4c9a3b67cfc378be",
+            "id": "03defef45a66b74e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Mechanics/Statblocks/Kageoni/Kageoni Consacrato.md",
-                "mode": "source",
+                "file": "03_Mechanics/Statblocks/Ilonia/Capolavoro di Carla.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kageoni Consacrato"
+              "title": "Capolavoro di Carla"
             }
-          }
-        ]
-      },
-      {
-        "id": "3b80754dec7bc386",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "fe06e6ca58792c28",
+            "id": "a05ab018ac27b507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Mechanics/Statblocks/Kemono/Guerriero Kemono.md",
+                "file": "00_Meta/Resources/Creare un mostro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guerriero Kemono"
+              "title": "Creare un mostro"
             }
           }
         ]
@@ -225,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,42 +237,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7a08ee3fc5c354e4",
+  "active": "03defef45a66b74e",
   "lastOpenFiles": [
-    "05_Campaings/One-Shots/Emozioni e Tensioni/PC/Rodolfo Leone.md",
-    "05_Campaings/One-Shots/Emozioni e Tensioni/PC",
-    "04_Characters/Non-Player Characters/Kemono/Ktarr, Capotribù degli Antichi.md",
+    "04_Characters/Non-Player Characters/Ilonia/Carla Sferi, Alta Ricercatrice del Consorzio.md",
+    "03_Mechanics/Statblocks/Ilonia/Capolavoro di Carla.md",
+    "00_Meta/Resources/Creare un mostro.md",
+    "03_Mechanics/Statblocks/Kageoni/Kageoni.md",
+    "00_Meta/Spells/Shield.md",
+    "00_Meta/Spells/Thunderwave.md",
+    "00_Meta/Spells/Mage Armor.md",
     "04_Characters/Non-Player Characters/Kemono/Klara, Sciamana degli Antichi.md",
+    "00_Meta/Spells/Prestidigitation.md",
+    "00_Meta/Spells/Mage Hand.md",
+    "00_Meta/Spells/Calm Emotions.md",
+    "00_Meta/Spells/Disguise Self.md",
+    "Statblock_Nome.md",
+    "04_Characters/Non-Player Characters/Ilonia/Vittorio Galvani, Console.md",
+    "00_Meta/Templates/Statblock.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC/Fla, Emotista Kemono.md",
+    "00_Meta/Templates/NPC.md",
+    "04_Characters/Non-Player Characters/Ilonia",
+    "01_Atlas/Regioni/Ilonia/Città/Oniria.md",
+    "02_Lore/Fazioni & Religioni/Ilonia/Consorzio Galvani.md",
+    "02_Lore/Fazioni & Religioni/Ilonia/Industrie Tolom.md",
+    "02_Lore/Fazioni & Religioni/Ilonia",
+    "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
+    "03_Mechanics/Statblocks/Kageoni/Kageoni Consacrato.md",
+    "01_Atlas/Regioni/Ilonia/Città",
+    "01_Atlas/Regioni/Ilonia",
+    "01_Atlas/Regioni",
+    "03_Mechanics/Statblocks/Ilonia",
+    "03_Mechanics/Statblocks/Kemono/Guerriero Kemono.md",
+    "03_Mechanics/Statblocks/Boss/Amica di Fla.md",
+    "03_Mechanics/Statblocks/Kemono/Arcere Kemono.md",
+    "03_Mechanics/Statblocks/Kemono/Furfante Kemono.md",
+    "05_Campaings/One-Shots/Emozioni e Tensioni/PC",
     "04_Characters/Non-Player Characters/Kemono",
     "04_Characters/Non-Player Characters",
-    "01_Atlas/Concetti/Magia/Sciamanismo.md",
-    "01_Atlas/Concetti/Magia",
-    "01_Atlas/Concetti",
-    "00_Meta/Spells/Disguise Self.md",
-    "00_Meta/Spells/Calm Emotions.md",
-    "00_Meta/Spells",
-    "03_Mechanics/Statblocks/Kageoni/Kageoni.md",
-    "03_Mechanics/Statblocks/Kageoni/Kageoni Consacrato.md",
-    "03_Mechanics/Statblocks/Kemono/Guerriero Kemono.md",
-    "00_Meta/Resources/Creare un mostro.md",
-    "03_Mechanics/Statblocks/Kemono/Furfante Kemono.md",
-    "03_Mechanics/Statblocks/Kemono/Arcere Kemono.md",
-    "05_Campaings/One-Shots/Emozioni e Tensioni/NPC/Fla, Emotista Kemono.md",
-    "03_Mechanics/Statblocks/Kageoni",
-    "02_Lore/Fazioni & Religioni/Foresta Immacolata/Tribù degli Antichi.md",
-    "03_Mechanics/Statblocks/Kemono",
-    "00_Meta/Templates/PC.md",
-    "00_Meta/Resources",
-    "Morderkind.md",
-    "03_Mechanics/Statblocks/Boss/Amica di Fla.md",
-    "00_Meta/Templates/Fazione.md",
-    "02_Lore/Fazioni & Religioni/Foresta Immacolata",
-    "00_Meta/Templates/NPC.md",
-    "00_Meta/Templates/Statblock.md",
-    "05_Campaings/One-Shots/Emozioni e Tensioni/Senza nome.md",
-    "03_Mechanics/Bestiario.md",
-    "Statblock_Noble.md",
-    "Gilda dei Ladri.md",
-    "Benvenuto.md"
+    "01_Atlas/Concetti/Magia"
   ]
 }
