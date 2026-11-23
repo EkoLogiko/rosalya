@@ -29,6 +29,7 @@ traits:
     desc: "Descrizione del funzionamento del tratto passivo. Se inserisci tiri di dado come 1d6 o +5 per colpire tra le virgolette, diventeranno cliccabili se usi il plugin Dice Roller."
   - name: Nome del Secondo Tratto
     desc: "Descrizione del secondo tratto."
+    
 
 # AZIONI IN COMBATTIMENTO (Attacchi, Soffi, Magie ad azione singola)
 actions:
