@@ -45,4 +45,4 @@ actions:
 bonus_actions:
   - name: Withering Blow
     desc: "Se il prossimo Artiglio Oscuro colpisce, il bersaglio subisce 5 danni all'inizio di ognuno dei suoi turni. Il bersaglio può effettuare un Tiro Salvezza COS 10 alla fine di ogni suoi turno per terminare l'effetto. L'effetto termina anche se la creatura muore o viene distrutta."
-
+    

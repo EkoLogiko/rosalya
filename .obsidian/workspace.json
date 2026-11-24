@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Mechanics/Statblocks/Kageoni/Kageoni Orochi.md",
-                "mode": "source",
+                "file": "03_Mechanics/Statblocks/Kageoni/Kageoni Orochi Consacrato.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kageoni Orochi"
+              "title": "Kageoni Orochi Consacrato"
             }
           }
         ]
@@ -227,11 +227,13 @@
   },
   "active": "a05ab018ac27b507",
   "lastOpenFiles": [
-    "03_Mechanics/Statblocks/Ilonia/Golem Sentinella.md",
-    "03_Mechanics/Statblocks/Kageoni/Kageoni Orochi.md",
-    "03_Mechanics/Statblocks/Ilonia/Capolavoro di Carla.md",
-    "03_Mechanics/Statblocks/Kageoni/Kageoni.md",
     "03_Mechanics/Statblocks/Kageoni/Kageoni Consacrato.md",
+    "03_Mechanics/Statblocks/Kageoni/Kageoni Guerriero.md",
+    "03_Mechanics/Statblocks/Kageoni/Kageoni Orochi Consacrato.md",
+    "03_Mechanics/Statblocks/Kageoni/Kageoni Orochi.md",
+    "03_Mechanics/Statblocks/Ilonia/Golem Sentinella.md",
+    "03_Mechanics/Statblocks/Kageoni/Kageoni.md",
+    "03_Mechanics/Statblocks/Ilonia/Capolavoro di Carla.md",
     "00_Meta/Resources/Creare un mostro.md",
     "05_Campaings/One-Shots/Kageoni Danzanti",
     "00_Meta/Attachments/Laboratorio di Carla.drawio.png",
@@ -256,8 +258,6 @@
     "00_Meta/Templates/NPC.md",
     "00_Meta/Spells/Shield.md",
     "00_Meta/Spells/Thunderwave.md",
-    "00_Meta/Spells/Mage Armor.md",
-    "04_Characters/Non-Player Characters/Kemono/Klara, Sciamana degli Antichi.md",
     "04_Characters/Non-Player Characters/Ilonia",
     "02_Lore/Fazioni & Religioni/Ilonia",
     "01_Atlas/Regioni/Ilonia/Città",

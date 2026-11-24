@@ -2,7 +2,7 @@
 name: Kageoni Consacrato
 size: Medio
 type: Aberrazione
-alignment: Legale Malvagio
+alignment: Caotico Malvagio
 ac: 11 (naturale)
 hp: 38 (7d8 + 7)
 speed: 9 m
